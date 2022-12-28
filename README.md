@@ -6,22 +6,16 @@
 
 <br>
 
-## <picture><img src = "https://media.giphy.com/media/h40KAteJarafHHPW54/giphy.gif" width = 50px></picture> **About me**
+## <img src = "https://media.giphy.com/media/h40KAteJarafHHPW54/giphy.gif" width = 50px> **About me**
 
-<picture><img align="right" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width = 250px></picture>
+<img align="right" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width = 250px>
 
 <br>
-
 I have been coding since 2019 as a full-stack developer. I have worked as a discord bots developer, a freelancer on fivver.com, on my projects, and with some companies to help build software.
-
 <br><br>
-
 <img src="https://media.giphy.com/media/35KdITWHGIhfXfup4g/giphy.gif" height="10" width="800"><br><br>
-
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"><b> Skills</b>
-
 <br>
-
 <p align="center">
 
 - **Languages and Technologies**:
