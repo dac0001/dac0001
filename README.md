@@ -12,7 +12,7 @@
 
 <br>
 
-# I have been coding since 2019 as a full-stack developer. I have worked as a discord bots developer, a freelancer on fivver.com, on my projects, and with some companies to help build software.
+I have been coding since 2019 as a full-stack developer. I have worked as a discord bots developer, a freelancer on fivver.com, on my projects, and with some companies to help build software.
 
 <br><br>
 
