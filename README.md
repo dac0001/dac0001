@@ -6,7 +6,7 @@
 
 <br>
 
-## <picture><img src = "https://img.icons8.com/external-soft-fill-juicy-fish/2x/external-developer-devops-soft-fill-soft-fill-juicy-fish-2.png" width = 50px></picture> **About me**
+## <picture><img src = "https://media.giphy.com/media/h40KAteJarafHHPW54/giphy.gif" width = 50px></picture> **About me**
 
 <picture><img align="right" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width = 250px></picture>
 
