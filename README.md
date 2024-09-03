@@ -22,9 +22,10 @@ I have been coding since 2019 as a full-stack developer. I have worked as a disc
 
 - **Languages and Technologies**:
 
+  ![Python](https://img.shields.io/static/v1?style=flat&label=&message=Python&color=404EED&logo=python&logoColor=white)
+  ![C#](https://img.shields.io/static/v1?style=flat&label=&message=C%23&color=404EED&logo=csharp&logoColor=white)
   ![JavaScript](https://img.shields.io/static/v1?style=flat&label=&message=Javascript&color=404EED&logo=javascript&logoColor=white)
   ![TypeScript](https://img.shields.io/static/v1?style=flat&label=&message=TypeScript&color=404EED&logo=typescript&logoColor=white)
-  ![Python](https://img.shields.io/static/v1?style=flat&label=&message=Python&color=404EED&logo=python&logoColor=white)
   ![C++](https://img.shields.io/static/v1?style=flat&label=&message=C%2B%2B&color=404EED&logo=c%2B%2B&logoColor=white)
   ![Java](https://img.shields.io/static/v1?style=flat&label=&message=Java&color=404EED&logo=Java-ED8B00&logoColor=white)
   ![Solidity](https://img.shields.io/static/v1?style=flat&label=&message=Solidity&color=404EED&logo=solidity&logoColor=white)
@@ -37,6 +38,7 @@ I have been coding since 2019 as a full-stack developer. I have worked as a disc
   ![Next.js](https://img.shields.io/static/v1?style=flat&label=&message=Next.js&color=404EED&logo=nextdotjs&logoColor=white)
   ![TailwindCSS](https://img.shields.io/static/v1?style=flat&label=&message=TailwindCSS&color=404EED&logo=tailwindcss&logoColor=white)
   ![jQuery](https://img.shields.io/static/v1?style=flat&label=&message=jQuery&color=404EED&logo=jquery&logoColor=white)
+  ![dJango](https://img.shields.io/static/v1?style=flat&label=&message=Django&color=404EED&logo=django&logoColor=white)
 
   ![Node.js](https://img.shields.io/static/v1?style=flat&label=&message=Node.js&color=404EED&logo=nodedotjs&logoColor=white)
 <br>   
